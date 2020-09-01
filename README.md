@@ -1,0 +1,2 @@
+# Moment 1 del 3.1 - Skapa repo med README-fil
+I denna del i kursen DT173G ska ett nytt projekt skapas och klonas till ett remote repo på Github. Repot ska innehålla en README.md-fil som skapas med markdown.
